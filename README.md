@@ -22,13 +22,14 @@ Find exercise tasks [here](https://github.com/starknet-edu/starknet-messaging-br
 ### Solution 1
 
 - Deploy Exercise 1 solution contract
-🚀 Deploying Exercise1_solution
 
-⏳ ️Deployment of Exercise1_solution successfully sent at 0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0
+    🚀 Deploying Exercise1_solution
 
-🧾 Transaction hash: [0x421a372a21fb95ab8bb6a42c655c6e0cb63c21bc765ca980fc37f025a382e78](https://goerli.voyager.online/tx/0x421a372a21fb95ab8bb6a42c655c6e0cb63c21bc765ca980fc37f025a382e78)
+    ⏳ ️Deployment of Exercise1_solution successfully sent at 0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0
 
-📦 Registering [0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0](https://goerli.voyager.online/contract/0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0) in goerli.deployments.txt
+    🧾 Transaction hash: [0x421a372a21fb95ab8bb6a42c655c6e0cb63c21bc765ca980fc37f025a382e78](https://goerli.voyager.online/tx/0x421a372a21fb95ab8bb6a42c655c6e0cb63c21bc765ca980fc37f025a382e78)
+
+    📦 Registering [0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0](https://goerli.voyager.online/contract/0x06d122a8c3192c87275e6faf7628313b1656fe6219267bb81f5cc633f24e67d0) in goerli.deployments.txt
 
 - [Submit solution](https://goerli.voyager.online/tx/0x58e36937ba59241d79ad875ba9a6d3678c7126bb93f1d1edaeb6310a54aa25b)
 
