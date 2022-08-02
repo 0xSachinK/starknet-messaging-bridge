@@ -1,5 +1,4 @@
 %lang starknet
- ecdsa
 
 from starkware.cairo.common.cairo_builtins import HashBuiltin, SignatureBuiltin
 from starkware.starknet.common.syscalls import get_contract_address, get_caller_address
