@@ -1,12 +1,14 @@
 # StarkNet messaging bridge
 
-Solutions to [Starknet messaging bridge](https://github.com/0xSachinK/starknet-messaging-bridge) exercises. Find the [Solution](https://github.com/0xSachinK/starknet-messaging-bridge/tree/main/contracts/Solutions) contracts here.
+Solutions to [Starknet messaging bridge](https://github.com/0xSachinK/starknet-messaging-bridge) exercises.
 
 ## Exercises
 
 Find exercise tasks [here](https://github.com/starknet-edu/starknet-messaging-bridge#tasks-list).
 
 ## Solutions
+
+Find the [Solution](https://github.com/0xSachinK/starknet-messaging-bridge/tree/main/contracts/Solutions) contracts here.
 
 ### Solution 0
 
