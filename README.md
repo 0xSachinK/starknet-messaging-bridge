@@ -1,6 +1,6 @@
 # StarkNet messaging bridge
 
-Solutions to [Starknet messaging bridge](https://github.com/0xSachinK/starknet-messaging-bridge) exercises.
+Solutions to [Starknet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge) exercises.
 
 ## Exercises
 
