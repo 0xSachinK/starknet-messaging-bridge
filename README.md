@@ -16,9 +16,9 @@ Find the [Solution](https://github.com/0xSachinK/starknet-messaging-bridge/tree/
 
 - [Consume message to mint dummy tokens on L1](https://goerli.etherscan.io/tx/0x38982c605c8a8f89e72659cbaa0249c30f23129520fe2104effe8db2bc1de187)
 
-- [Prove I have dummy tokens and initiate message back to L2](https://goerli.etherscan.io/tx/0xf21007ba46cab83b030e01c85dd62cf00aac8afcd0dce7def4e0d25a6b1d8e51)
+- [Prove I have dummy tokens and initiate message back to L2](https://goerli.etherscan.io/tx/0x6c73b1b4fd754cfb6907a34159afcf9d00a718dcb0663e2e179fa33b15c230ad#eventlog)
 
-- [Consume message on L2 and receive point tokens]()
+- [Consume message on L2 and receive point tokens](https://goerli.voyager.online/tx/0x44dd1ba89ce6f193b1cd40af9af17779cfa7188a562d0a23097226ba815eaf5#overview)
 
 
 ### Solution 1
